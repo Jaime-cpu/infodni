@@ -1,3 +1,11 @@
 
-  {"dni":{"numero":65438763,"letra":"P"},"nombre":"Oscar","apellidos":"lucas Trapaza","mensaje":"Vivan los locos...!! :)"}
+  {
+    "infopersonal": 
+    {
+      "dni": {"numero":65438763,"letra":"P"},
+      "nombre":"Oscar",
+      "apellidos":"lucas Trapaza",
+      "mensaje":"Vivan los locos...!! :)"
+  }
+}
 
